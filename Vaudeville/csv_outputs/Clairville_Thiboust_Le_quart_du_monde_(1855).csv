@@ -1,0 +1,321 @@
+act,scene,number,characters,dramatic_situation,air_or_melodie,poetic_text,rhyme_scheme,poetic_form,end_of_line_accents,syllable_count_per_line,irregularities,stage_direction_or_cues,reprise
+1,2,1,Polkette,"Polkette sings about her carefree and pleasure-seeking nature, emphasizing her desire for change and freedom.",AIR des Enfers de Paris (J. Nargeot),"Je suis Polkette et j'aime le plaisir!
+Ma vie est une fête
+Sans réfléchir,
+A saisir
+Le plaisir
+Polkette est toujours prête.
+Ce n'est pas sa fierté,
+Mais sa gaieté,
+Mais sa bonté,
+Qui font aimer Polkette.
+Ainsi que de bonnets
+Coquets,
+Je change de sentiment
+A tout moment;
+Je veux, je le dis sans détours,*
+De toilettes et d'amours
+Changer toujours!
+Je suis de l'humeur des oiseaux,
+je ne puis pas souffrir la cage.
+On a beau dorer ses barreaux,
+pour moi, c'est toujours l'esclavage.
+Comme les hirondelles,
+Fuyant des fers maudits...
+C'est pour changer de nids
+Que l'amour a des ailes.
+*(Musical instruction)",ABCCDEEFFGGHHIJJKKLL,Strophic with refrain,feminine; feminine; masculine; masculine; masculine; feminine; feminine; feminine; feminine; feminine; masculine; masculine; masculine; masculine; feminine; feminine; feminine; masculine; feminine; feminine; feminine,12; 6; 5; 3; 3; 6; 7; 4; 3; 6; 4; 5; 3; 4; 8; 8; 8; 8; 5; 6; 7,,(Ils dansent sur la ritournelle),"Polkette reprises 'Je suis Polkette, etc.'"
+1,4,2,Polkette; Poulot,Polkette and Poulot sing a duet about their agreement to marry.,AIR de J. Nargeot,"Ah 1 vraiment
+Quel moment !...
+Allumons en cette journée
+Le flambeau d'l'hyménée.
+L'hymen est un lien charmant
+C'est un lien charmant!
+POULOT.
+Je vous soignerai,
+Vous dorloterai.
+POLKETTE.
+Offerts par vous, que les bouillons
+Seront bons!
+POULOT.
+Vous s'rez mon mari,
+Mon mari chéri.
+POLKETTE.
+C'est moi qui s'ravot'bibi.
+ENSEMBLE.
+Ah ! vraiment,etc.",AABBCCDEEF,Strophic with ensemble,feminine; masculine; feminine; feminine; masculine; masculine; feminine; feminine; feminine; feminine; masculine,4; 4; 8; 8; 6; 6; 4; 4; 5; 5; 5,,(Poulot la prend par la taille. Elle passe à gauche.),
+1,9,3,Polkette; Poulot; Bamboche,Polkette tries to intervene in a fight to stop Poulot and Bamboche from harming each other.,AIR des Mystères de l'été(2e acte),"POULOT.
+Je suis d'une fureur!
+Je suis d'une colère!
+Sache qu'un militaire
+D'un civil n'a pas peur.
+BAMBOCHE.
+Je suis d'une fureur!
+Je suis d'une colère!
+Crois que d'un militaire
+Un civil n'a pas peur.
+POLKETTE.
+Calmez cette fureur,
+Cette aveugle colère!
+Et videz cette affaire
+Comme des gens de cœur.",AABB CCDD EEFF,Simple alternating strophes,feminine; feminine; feminine; masculine; feminine; feminine; feminine; masculine; feminine; feminine; feminine; feminine,7; 7; 7; 7; 7; 7; 7; 7; 7; 7; 7; 7,,"(Bamboche et Poulot sortent, en se colletant, par la porte du 2e plan à droite)",
+1,11,4,Polkette,Polkette sings about her ambitions and indifference to the outcome of the ongoing fight.,Le beau Lycas,"Je veux quitter ce quart de monde,
+J'ai du toupet, j'ai de l'orgueil;
+On massacrerait tout le monde,
+Que j'm'en battrais parfait'ment l'œil!
+Je veux enfin du quart de monde
+M'élever jusqu'au demi-monde...
+Le tiers de monde est trop jobard,
+L'demi seul est un mond' flambard;
+Car les femmes du demi-monde
+Se moquent du tiers et du quart.",ABAB CCDD EE,Strophic,feminine; feminine; feminine; masculine; feminine; feminine; masculine; masculine; feminine; masculine,10; 10; 10; 10; 9; 6; 7; 7; 10; 7,,,
+1,14,5,Polkette; Bamboche; Poulot; Nini,"Everyone sings together, celebrating their lifestyle and humorously acknowledging their questionable society status.",Nous sommes du quart de monde,"Nous sommes du quart de monde,
+Nous formons un monde à part.
+Nous sommes, etc.
+Il faut, au reste du monde
+Qui nous fronde,
+Prouver que le quart de monde
+Est l'meilleur quart.
+Vive Racine et Corneille!
+Vive Molière et Reguard!
+Ils ont fait mainte merveille
+Sans pareille,
+Mais je préfère Alphonse Karr...
+J'suis pour le quart.
+Ils ont fait mainte merveille
+Sans pareille;
+Mais il préfère Alphons' Karr...
+Il aim' le quart.",ABAC DDEE DDEE,Song with alternating ensemble and solo parts,feminine; masculine; feminine; feminine; feminine; masculine; masculine; feminine; masculine; masculine; feminine; masculine,9; 7; 7; 8; 5; 9; 5; 9; 7; 7; 7; 7,,Nini se levant et allant à Bamboche,
+1,9,1,Poulot; Bamboche; Polkette,A confrontation between Poulot and Bamboche with Polkette trying to mediate.,AIR des Mystères de l'été (2e acte),"POULOT.
+Je suis d'une fureur!
+Je suis d'une colère!
+Sache qu'un militaire
+D'un civil n'a pas peur.
+BAMBOCHE.
+Je suis d'une fureur!
+Je suis d'une colère!
+Crois que d'un militaire
+Un civil n'a pas peur.
+POLKETTE.
+Calmez cette fureur,
+Cette aveugle colère!
+Et videz cette affaire
+Comme des gens de cœur.",AABB CCDDEE,Alternating dialogue and refrain,feminine; feminine; feminine; masculine; feminine; feminine; feminine; masculine; feminine; feminine; feminine; masculine,7; 7; 8; 6; 7; 7; 8; 6; 7; 7; 8; 6,,"Bamboche et Poulot sortent, en se colletant, par la porte du 2e plan à droite.",
+1,10,2,Polkette,Polkette reflects on her situation and expresses her aspirations.,Le beau Lycas,"Je veux quitter ce quart de monde,
+J'ai du toupet, j'ai de l'orgueil;
+On massacrerait tout le monde,
+Que j'm'en battrais parfait'ment l'œil!
+Je veux enfin du quart de monde
+M'élever jusqu'au demi-monde...
+Le tiers de monde est trop jobard,
+L' demi seul est un mond' flambard;
+Car les femmes du demi-monde
+Se moquent du tiers et du quart.",ABABCDCDCDCD,Stanzaic verse,feminine; masculine; feminine; masculine; feminine; feminine; masculine; feminine; feminine; masculine,8; 8; 8; 12; 8; 10; 8; 12; 8; 12,,Ici Nini paraît au fond et entre.,
+1,14,3,Polkette; All,"Celebration of camaraderie and solidarity among the characters with a playful, communal tone.",Nous sommes du quart de monde,"POLKETTE.
+Nous sommes du quart de monde,
+Nous formons un monde à part.
+TOUS.
+Nous sommes, etc.
+POLKETTE.
+Il faut, au reste du monde
+Qui nous fronde,
+Prouver que le quart de monde
+Est l'meilleur quart.
+TOUS.
+Il faut, au reste du monde, etc.",AABBCC,Refrain at the beginning and end with verse in between,feminine; feminine; feminine; feminine; feminine; feminine; feminine; feminine,8; 8; 6; 8; 4; 8; 6; 8,,--,
+1,14,4,Bamboche; All,Commentary on preference for Alphonse Karr over classical authors with a humorous tone.,Vive Racine et Corneille,"BAMBOCHE.
+Vive Racine et Corneille!
+Vive Molière et Reguard!
+TOUS.
+Vive Racine, etc.
+BAMBOCHE.
+Ils ont fait mainte merveille
+Sans pareille,
+Mais je préfère Alphonse Karr...
+J'suis pour le quart.
+TOUS.
+Ils ont fait mainte merveille
+Sans pareille;
+Mais il préfère Alphons' Karr...
+Il aim' le quart.",AABBCCDD,Refrain with commentary,feminine; feminine; feminine; feminine; feminine; masculine; feminine; masculine,8; 7; 6; 8; 4; 8; 6; 8,,--,
+1,14,5,Nini; All,Nini comments on her relationship with a student and her aspirations.,L'étudiant m'appell'son ange,"MINI.
+L'étudiant m'appell' son ange,
+J'aime à l'suivre chez Musard.
+TOUS.
+L'étudiant l'appell' son ange,
+Elle le suit chez Musard.
+MINI.
+Mais jamais en agent d'change,
+Il ne se change;
+Et j'voudrais d'agent de change
+Avoir un quart.
+TOUS.
+Mais jamais en agent d'change, Il ne se change;
+Ell' voudrait d'agent de change,
+Avoir un quart.",AABBCCDDEE,Alternating dialogue and refrain,feminine; masculine; feminine; masculine; feminine; masculine; feminine; feminine; feminine; feminine,8; 8; 8; 8; 8; 6; 8; 4; 8; 4,,--,
+1,14,6,Poulot; All,Poulot humorously talks about his curfew and consequences of breaking it.,Jusqu'à dix heur's,"POULOT.
+Jusqu'à dix heur's, c'est justice,
+J* peux m' prom'ne sur le boul'vard.
+TOUS.
+Jusqu'à dix heur's, c'est justice,
+Il s' promèn' sur le boul'vard.
+POULOT.
+Mais à la sali' de police,
+Faut que j' moisisse,
+Quand j'a i passé sur l' boul'vard
+Dix heur's un quart.
+TOUS.
+Mais à la sali' de police
+Faut qu'il moisisse,
+Quand il pass' sur l' boul'vard
+Dix heur's un quart.",AABBCCDD,Alternating dialogue and refrain,feminine; masculine; feminine; masculine; feminine; masculine; feminine; masculine,9; 9; 9; 9; 9; 4; 9; 4,,--,
+1,14,7,Polkette; All,Address to the audience with a humorous invitation.,"La foui', qui toujours abonde","POLKBTTE, au public.
+Messieurs, j'espère qu'à la ronde,
+Accourant de toute part...
+TOUS.
+Messieurs, etc.
+POLKETTE.
+La foui', qui toujours abonde
+Au Demi-Monde,
+Ici viendra, par hasard,
+Pour voir le quart.
+TOUS.
+La foule, etc.",AABBCD,Address to audience with refrain,feminine; feminine; masculine; feminine; masculine; feminine,11; 9; 5; 4; 8; 4,,--,
+1,7,1,Character A,Character A expresses excitement and joy about a new love.,"Air: ""Ah! vous dirai-je, maman""","Ah! vous dirai-je, maman,
+Ce qui cause mon tourment ?
+Papa veut que je raisonne,
+Comme une grande personne ;
+Moi, je dis que les bonbons
+Valent mieux que la raison.",AABCCB,Simple couplets with repeated theme,feminine; masculine; feminine; feminine; feminine; masculine,8; 8; 8; 8; 8; 8,,(Character A dances joyously around the room.),
+1,8,1,DORIMENE,Dorimène expresses her joy and excitement.,"Air: Ah! ça ira, ça ira","On dit qu’l’amour rend les gens fous,\nJ’en conviens moi-même;\nCar je n’peux dire un seul mot doux\nSans rougir d’extrême.",ABAB,quatrain,masculine; feminine; masculine; feminine,8; 8; 8; 8,,"(Dorimène, avec émotion.)",
+1,8,2,DORIMENE; DAMIS,A duet where Dorimène and Damis express mutual love.,"Air: Vous dirai-je, maman","Nous nous marierons,\nQuelle douce chose!\nEn ce jour nous dirons\nQu’chaque heure est rose.",ABAB,quatrain,masculine; feminine; masculine; feminine,6; 6; 6; 6,,(Ils se regardent tendrement.),
+1,9,1,Poulot; Bamboche; Polkette,"Poulot, Bamboche, and Polkette are in an argument. Poulot accuses Bamboche of speaking ill of his beloved. All characters express their anger or try to mediate.",des Mystères de l'été (2e acte),"POULOT.
+Je suis d'une fureur
+Je suis d'une colère!
+Sache qu'un militaire
+D'un civil n'a pas peur.
+
+BAMBOCHE.
+Je suis d'une fureur!
+Je suis d'une colère!
+Crois que d'un militaire
+Un civil n'a pas peur.
+
+POLKETTE.
+Calmez cette fureur,
+Cette aveugle colère!
+Et videz cette affaire
+Comme des gens de cœur.",ABAB ABAB CDCD,Quatrains,feminine; feminine; masculine; masculine; feminine; feminine; masculine; masculine; feminine; feminine; feminine; masculine,6; 6; 8; 7; 6; 6; 8; 7; 6; 6; 8; 7,,"Bamboche et Poulot sortent, en se colletant, par la porte du 2C plan à droite.",
+1,10,2,Polkette,Polkette muses to herself about her circumstances and the advantages of either potential romantic partner winning the fight.,Le beau Lycas,"Je veux quitter ce quart de monde,
+J'ai du toupet, j'ai de l'orgueil;
+On massacrerait tout le monde,
+Que j'm'en battrais parfait'ment l'œil...
+Je veux enfin du quart de monde
+M'élever jusqu'au demi-monde...
+Le tiers de monde est trop jobard,
+L' demi seul est un mond' flambard;
+Car les femmes du demi-monde
+Se moquent du tiers et du quart.",ABAB ACCDCD,Stanzas,feminine; feminine; feminine; masculine; feminine; feminine; masculine; masculine; feminine; masculine,9; 8; 9; 9; 9; 9; 9; 8; 8; 8,"The contraction ""parfait'ment"" shortens the syllable count.","(Elle prend sur le bureau du tabac et du papier et fait une cigarette, tout en parlant.)",
+1,14,3,Polkette; Bamboche; Poulot; Nini; Pichenette; Zizine; Loulou,"The characters compose a lively ensemble number, each presenting a facet of their life and espousing living for pleasure.",Nous sommes du quart de monde,"POLKETTE.
+Nous sommes du quart de monde,
+Nous formons un monde à part.
+
+TOUS.
+Nous sommes, etc.
+
+POLKETTE.
+Il faut, au reste du monde
+Qui nous fronde,
+Prouver que le quart de monde
+Est l'meilleur quart.
+
+TOUS.
+Il faut, au reste du monde, etc.
+
+BAMBOCHE.
+Vive Racine et Corneille!
+Vive Molière et Reguard!
+
+TOUS.
+Vive Racine, etc.
+
+BAMBOCHE.
+Ils ont fait mainte merveille
+Sans pareille,
+Mais je préfère Alphonse Karr...
+J'suis pour le quart.
+
+TOUS.
+Ils ont fait mainte merveille
+Sans pareille;
+Mais il préfère Alphons' Karr...
+Il aim' le quart.
+
+MINI.
+L'étudiant m'appell' son ange,
+J'aime à l'suivre chez Musard.
+
+TOUS.
+L'étudiant l'appell' son ange,
+Elle le suit chez Musard.
+
+NINI.
+Mais jamais en agent d'change,
+Il ne se change;
+Et j'voudrais d'agent de change
+Avoir un quart.
+
+TOUS.
+Mais jamais en agent d'change, Il ne se change;
+Elle voudrait d'agent de change,
+Avoir un quart.
+
+POULOT.
+Jusqu'à dix heur's, < est justice,
+J* peux m' prom'ner sur le boul'vard.
+
+TOUS.
+Jusqu'à dix heur's, c'est justice,
+Il s'promèn' sur le boul'vard.
+
+POULOT.
+Mais à la sali* de police,
+Faut que j'moisisse,
+Quand j'ai passé sur l'boul'vard
+Dix heur's un quart.
+
+TOUS.
+Mais à la sali' de police
+Faut qu'il moisisse,
+Quand il pass' sur l'boul'vard
+Dix heur's un quart.
+
+POLKBTTE, au public.
+Messieurs, j'espère qu'à la ronde,
+Accourant de toute part..
+
+TOUS.
+Messieurs, etc.
+
+POLKETTE.
+La foui', qui toujours abonde
+Au Demi-Monde,
+Ici viendra, par hasard,
+Pour voir le quart.
+
+TOUS.
+La foule, etc.",AA B CCDA D B EEFF EEBB GGHH GGHH II JJJJ B JJKK JJK,"Chorus with solo elements, refrain structure",feminine; masculine; feminine; masculine; feminine; feminine; feminine; masculine; feminine; feminine; feminine; masculine; feminine; feminine; masculine; masculine; feminine; feminine; masculine; masculine; feminine; feminine; feminine; masculine; feminine; feminine; masculine; feminine; feminine; masculine; feminine; masculine; feminine; masculine; feminine; masculine,8; 8; 4; 8; 4; 8; 4; 8; 4; 9; 8; 9; 4; 9; 4; 10; 10; 8; 10; 8; 10; 10; 10; 10; 6; 10; 4; 10; 10; 4; 10; 10; 9; 9; 9; 8,"Frequent contractions reduce syllable counts (e.g., ""prom'ner"", ""moisisse"")","Elles remontent et se trouvent arrêtées par les autres jeunes filles, qui viennent d'entrer par le fond.",
+1,11,1,CHARLES-HENRI,Charles-Henri expresses his love and longing.,La Belle Bourbonnaise,"Dans ce beau pays que voilà, 
+Loin de toi, belle et tendre amie, 
+Que je souffre de tous les tracas, 
+Ah! jamais d’ennui je n'étais à l'abri.",ABAB,Quatrain,féminine; féminine; féminine; féminine,9; 9; 9; 11,The expected syllable count for the last line may vary due to musical convention.,,
+1,11,2,LAURA; ANTOINE,Laura and Antoine engage in playful banter.,"Ah, vous dirai-je maman","Ah! que vous êtes drôle vraiment, 
+Cher Antoine, avec tous vos serments. 
+Je ne vous crois qu’à moitié, 
+Car vous avez l'air effronté.",AABB,Quatrain,féminine; féminine; féminine; féminine,9; 9; 8; 9,,(Ils rient ensemble.),
+1,12,1,Polkette; Bamboche,"Bamboche reveals he has physically fought with Polkette's rival in love, and she expresses her adoration for him.","Polkette, Nini / Nini, Polkette","Ah! tu es grand, tu es beau!... je t'aime, mon Bamboche! Ah! répète-moi ce mot, Pol- kette, redis-moi que ce fantassin n'a jamais égratigné ton cœur, redis-moi que j'ai bien fait de trépigner dessus, que tu te réjouis des noirs que j'ai pu lui faire... Oui, mon Bamboche, je me moque pas mal des désagréments que tu lui as procurés... Je suis à toi! viens! viens!... fuyons!...",Unrhymed,Free verse,feminine; masculine; feminine; feminine; masculine; feminine; masculine; feminine; feminine; masculine; feminine,10; 5; 9; 8; 10; 12; 11; 5; 5; 2; 2,The text seems to be free verse with no consistent rhyme scheme and irregular syllable counts.,(Elle veut l'entraîner.— Poulot entre par la porte du deuxième plan à droite.),The musical moment does not include a reprise.
+1,14,1,Polkette; Tous,Group of characters singing about their status and pride as the 'quart de monde'.,Nous sommes du quart de monde,"Nous sommes du quartde monde,\nNous formons un monde à part.\nIlfaut,au restedu monde\nQui nous fronde,\nProuverque le quartde monde\nEstl'meilleurquart.",AABCCB,Stanza,feminine; feminine; feminine; masculine; feminine; masculine,10; 9; 9; 4; 10; 4,,,
+1,14,2,Bamboche; Tous,Bamboche expresses preference for Alphonse Karr over the other writers.,Vive Racine et Corneille,"Vive RacineetCorneille!\nVive Molièreet Reguard!\nIlsont faitmaintemerveille\nSans pareille,\nMais jepréfèreAlphonseKarr...\nJ'suispourle quart.",AABCCB,Stanza,feminine; feminine; feminine; feminine; feminine; masculine,9; 9; 12; 4; 11; 5,,,"Vive Racine, etc."
+1,14,3,Nini; Tous,Nini mentions her situation with the student who calls her his angel.,L'étudiant m'appell'son ange,"L'étudiantm'appell'son ange,\nJ'aimeà l'suivrechez Musard.\nMais jamaisen agentd'change,\nIlne se change;\nEt j'voudraisd'agentde change\nAvoir un quart.",AABCCB,Stanza,feminine; feminine; feminine; feminine; feminine; masculine,10; 9; 9; 4; 10; 4,,,"L'étudiant l'appell'son ange, Elle le suit chez Musard."
+1,14,4,Poulot; Tous,Poulot shares a humorous tale of being arrested past curfew.,Jusqu'à dix heur's,"Jusqu'àdix heur's, < estjustice,\nJ* peux m' prom'nersurleboul'vard.\nMais à lasali*de police,\nFautque j'moisisse,\nQuand j'aipassé surl'boul'vard\nDix heur'sun quart.",AABCCB,Stanza,feminine; feminine; feminine; feminine; feminine; masculine,11; 11; 9; 4; 10; 5,Typographical errors and contractions in text such as 'heur's' and 'sali*'.,,
+1,14,5,Polkette; Tous,"Polkette addresses the audience, inviting them to experience the lively 'quart'.","Messieurs, j'espère qu'à la ronde","Messieurs,j'espèrequ'àlaronde,\nAccourantde toutepart..,\nLa foui',qui toujoursabonde\nAu Demi-Monde,\nIciviendra,parhasard,\nPourvoirle quart.",AABCCB,Stanza,feminine; feminine; feminine; feminine; feminine; masculine,11; 9; 9; 4; 9; 4,,,"La foule, etc."

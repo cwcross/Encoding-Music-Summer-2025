@@ -1,0 +1,150 @@
+act,scene,number,characters,dramatic_situation,air_or_melodie,poetic_text,rhyme_scheme,poetic_form,end_of_line_accents,syllable_count_per_line,irregularities,stage_direction_or_cues,reprise
+1,1,1,HÉLOÏSE,"Héloïse is alone, anxious about an unexpected visitor coming soon, unsure of how to handle the situation.",Fleuve de la vie,"D’autres, quand gronde la tempête,
+Montrent de l’audace et du cœur ;
+Moi, pour un rien je perds la tête,
+Et me trouve mal quand j’ai peur !...
+Comment, dans cette inquiétude,
+Leur dérober mon embarras ?...
+Les honnêtes femmes, hélas !
+Ont si peu d’habitude !",ABAB CDCD,Stanza,féminine; masculine; féminine; masculine; féminine; masculine; féminine; masculine,8; 8; 8; 8; 8; 8; 8; 8,,Se levant. Arriver ainsi à l’improviste ! et ne m’en prévenir qu’une heure d’avance !,
+1,2,1,Héloïse,Héloïse is trying to avoid a meeting with a doctor and a priest by pretending to be ill.,Air de Calpigi,Ah ! mon Dieu ! que dire et que faire À ses propos pour me soustraire ! Il faut éviter son regard... Des médecins le plus bavard !,AABB,Quatrain,feminine; feminine; masculine; masculine,12; 12; 8; 8,,,
+1,3,1,Héloïse,"Héloïse, alone on stage, is reflecting on her thoughts and behavior, feeling guilty about her impatience, anger, and lack of virtue, even as she tries to uphold her respected position as a chanoiness.",L'amour qu'Edmond a su me taire,"Oui, moi, si pure et si sévère,
+Je suis coupable de détour,
+D’impatience et de colère...
+Trois péchés ! rien qu’en un seul jour !
+Mais la vertu, que seule ici j’écoute,
+Est un trésor si rare à conserver.
+Qu’il faut bien, hélas! qu’il en coûte
+Quelque chose pour la sauver !",ABAB CDCD,Stanzaic,féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine,9; 9; 9; 9; 11; 11; 11; 11,,Montrant la porte à gauche.,
+1,4,1,Héloïse,Gabrielle learns of Héloïse's past and the false story about Gabrielle being married and having a child. Héloïse pleads with Gabrielle to maintain the story to preserve Héloïse's reputation.,Air de Renaud de Montauban,"Que mon seul vœu soit écouté :
+De vingt amants à toi l’hommage !
+À toi la grâce et la beauté !
+Car le ciel te laisse en partage
+Amour, plaisir, et cætera...
+Laisse-moi du moins l’avantage
+D’être respectée... À mon âge,
+On n’a plus que ce bonheur-là.",ABABCCDD,strophic,feminine; masculine; feminine; masculine; feminine; masculine; feminine; masculine,8; 9; 8; 8; 7; 10; 9; 8,,,
+1,4,2,Héloïse; Gabrielle,"Following Héloïse's persuasion, Gabrielle reluctantly agrees to the plan of pretending to be married with a child as Héloïse sings of hope for Gabrielle's future.",Air de la valse des Comédiens,"Puisse le ciel, à qui je rends hommage,
+De ton bon cœur te payer aujourd’hui !
+Puissé-je ici, terminant ton veuvage,
+Te voir bientôt à ton second mari !
+
+GABRIELLE, secouant la tête.
+Oh ! mon second !...
+
+HÉLOÏSE.
+Cet époux, je l’atteste,
+À son destin se fera volontiers ;
+Et ce sera comme au séjour céleste,
+Où les derniers se trouvent les premiers.
+
+Ensemble.
+
+HÉLOÏSE.
+Puisse le ciel, à qui je rends hommage,
+Etc., etc., etc.
+
+GABRIELLE.
+De l’amitié je lui devais ce gage...
+Puisqu’il le faut, prenons notre parti ;
+Résignons-nous, hélas ! à mon veuvage,
+Et que le ciel nous protège aujourd’hui !",ABAB ACDC ABAB EFEF,alternating chorus and solo stanzas,feminine; feminine; feminine; masculine; feminine; masculine; feminine; masculine; feminine; feminine; feminine; feminine; feminine; feminine,10; 10; 10; 10; 5; 10; 10; 10; 10; 10; 10; 10; 10; 10,,Héloïse embraces Gabrielle; Gabrielle shakes her head; Ensemble (both characters sing together),
+1,6,1,HENRI; GABRIELLE,"Henri expresses his relief and joy upon arriving and seeing Gabrielle, despite fatigue from his journey.",Du partage de la richesse,"J’en conviens, écuyer novice,
+J’étais brisé ; mais rien qu’en arrivant,
+Rica qu’en voyant ce superbe édifice,
+Surtout en vous apercevant,
+Plus de fatigue, tout s’oublie !",ABACB,Stanza,feminine; masculine; feminine; masculine; feminine,9; 8; 10; 8; 8,"Line 3 ""Rica qu'en voyant"" is unusual. Potential issue with transcription or missing words.","HENRI, d’un air triomphant.",
+1,7,1,Héloïse; Henri; Gabrielle,"Héloïse is expressing her delight and inviting Henri and Gabrielle to stay, establishing a friendly welcoming setting.",Pauvre dame Marguerite,"Puisqu’ici je vous possède,
+Je vous garde tous les deux.
+Comme dame châtelaine,
+Je veux toute une semaine
+Près de nous vous retenir,
+Pour vous reposer de la route...
+Faut-il accepter ?
+Sans doute.
+Il faut accepter ?
+Sans doute.
+Ah ! quel plaisir d’obéir ! (bis.)",ABCDDC EFEF GG,"Two stanzas, dialogue form with repetition",feminine; masculine; feminine; feminine; masculine; feminine; masculine; masculine; masculine; masculine; masculine,7; 6; 7; 7; 7; 8; 5; 3; 5; 3; 9,,"HENRI, bas, à Gabrielle; GABRIELLE: Sans doute; HENRI, à part: Ah ! quel plaisir d’obéir ! (bis.)",
+1,7,2,Héloïse; Henri; Gabrielle,"Continues the previous focus, Héloïse acknowledges Henri's protection of Gabrielle and invites affection, leading to comedic misunderstandings.",Pauvre dame Marguerite,"Quoi ! vous rassuriez ma nièce,
+Qui sur mer tremblait d’effroi !
+Vous la protégiez sans cesse ?
+Ah ! Monsieur, embrassez-moi.
+Faut-il accepter ?
+Sans doute.
+Je vois parfois qu’il en coûte ;
+Mais n’importe, et sans réfléchir...
+Ma nièce aussi...
+Quel délice !
+Faut-il toujours que j’obéisse ?
+Ah ! quel plaisir d’obéir ! (bis.)",ABAB CDCCD EFEF GG,"Two stanzas, dialogue form with repetition",feminine; masculine; feminine; masculine; masculine; masculine; feminine; feminine; masculine; feminine; feminine; masculine; feminine,9; 8; 9; 7; 5; 3; 9; 8; 4; 4; 9; 9; 9,,"Il embrasse Héloïse; S’approchant timidement de Gabrielle: Gabrielle ne répond pas, mais de la tête lui fait signe que oui. Henri l’embrasse.",
+1,7,3,Gabrielle,"Gabrielle, feeling the pressure of the situation, shares her inner conflict about being perceived differently from who she is and contemplates withdrawing.",Le beau Lycas aimait Thémire,"Hélas ! à son trouble sensible,
+Je partage son embarras !
+C’est qu’en effet il est terrible
+De passer pour ce qu’on n’est pas...
+Par prudence, je me retire ;
+Car, rien qu’en voyant sa douleur,
+Surtout en voyant son erreur,
+Je suis toujours prête à lui dire :
+« Rassurez-vous, n’ayez pas peur... »",ABAB CDDC EE,Two stanzas with refrain,feminine; masculine; feminine; masculine; feminine; feminine; feminine; feminine; feminine,9; 9; 9; 8; 8; 9; 9; 9; 8,,Elle sort par la droite en le regardant encore.,
+1,9,1,Henri,"Henri is alone, wrestling with his feelings and decision about marrying a woman who has previously been married and has a child. He is torn between his love for her and the opinions of his family, especially his uncle.",Air de Lantara,"C’est toujours la femme que j’aime,
+C’est toujours ce regard charmant !
+Mêmes attraits... elle est la même...
+Non pas tout à fait cependant, (bis.)
+Mais que m’importe ? Adieu, raison, sagesse,
+Peines, regrets... Que tout soit effacé !...
+L’amour m’enivre ; et dans l’ivresse,
+Distingue-t-on le présent du passé ? (bis.)",AABA CCBB,quatrain followed by quatrain with refrain,feminine; masculine; feminine; masculine; masculine; feminine; masculine; feminine,9; 8; 9; 8; 8; 9; 8; 9,The refrain '(bis.)' indicates repetition and the rhythm focuses on emotional intensity rather than strict syllable adherence.,"S'arrêtant, Avec impatience",
+1,10,1,BOURGACHARD,Bourgachard reflects on the carefree attitude of youth and the realization of old age.,Air du Piège,"Point de remords, point de chagrin,
+Et l’on se repasse sans peine
+Amour, fillettes et bon vin,
+Sans compter mainte autre fredaine.
+Nous nous disions, nous autres chenapans :
+Ces péchés-là, je puis me les permettre ;
+Pour m’en repentir, j’ai le temps
+Où je n’en pourrai plus commettre !
+Eh bien ! ce temps-là est venu...",ABAB CCDCD,Quatrain followed by a quatrain,feminine; feminine; feminine; feminine; masculine; feminine; feminine; feminine,9; 9; 9; 9; 9; 12; 8; 10,,Il s’assied auprès de la table.,
+1,10,2,BOURGACHARD; HENRI,"Henri informs Bourgachard of his marriage to a widow, leading Bourgachard to express his surprise and opinions.",Air du vaudeville de l’Avare,"Oui, ventrebleu, l’idée est neuve !
+Aller, au printemps de ses jours,
+Pour femme choisir une veuve !
+Qu’importe, si j’ai ses amours ?
+Veuve qui fera tous les jours
+Des comparaisons en ménage
+De vous et du premier mari.
+Eh ! qu’importe, mon oncle, si
+Elles sont à mon avantage ?",ABAB CDCD,Quatrains,feminine; feminine; feminine; masculine; feminine; feminine; masculine; feminine,8; 9; 9; 8; 8; 9; 7; 9,,Avec embarras.,
+1,11,1,Bourgachard; Henri; Gabrielle,"Héloïse faints upon hearing her supposedly deceased husband is alive, leading to a chaotic musical trio.",Air du Serment,"Grand Dieu ! que signifie
+Un tel événement ?
+Trahison, perfidie,
+Je le vois à présent.
+Grand Dieu ! que signifie
+Notre ruse est trahie ;
+Comment faire à présent ?
+Ma pauvre tante ! ah ! je conçois, hélas !
+Et son trouble et son embarras.
+Revoir revenir à la vie
+Un mari qu’on n’attendait pas !
+Pardon, Messieurs, je ne la quitte pas !
+Grand Dieu ! que signifie,
+Etc.
+Grand Dieu ! que signifie, Etc.",AABB CCDDEE,strophic form with repeated lines for dramatic emphasis,feminine; masculine; feminine; masculine; feminine; feminine; masculine; masculine; feminine; masculine; feminine,6; 7; 5; 6; 6; 7; 8; 8; 7; 8; 7,,"Henri a sonné pendant ce dernier ensemble, Anastase paraît ; Gabrielle relève sa tante, qui sort en s’appuyant sur son bras et sur celui d’Anastase.",
+1,12,1,BOURGACHARD; HENRI,Bourgachard and Henri have decided against marriage and are celebrating the idea of remaining bachelors.,"D'honneur, c'est charmant ! (des Malheurs d'un amant heureux.)","Plus de mariage !
+Demeurons garçons.
+Oui, c’est le plus sage ;
+Et nous passerons...
+Notre vie entière
+Sans bruit, sans débat !
+L’hymen, c’est la guerre !
+C’est un vrai combat !
+Le bonheur, sur la terre,
+C’est le célibat.",ABAB CDCD EE,Simple verse form,masculine; masculine; feminine; masculine; feminine; masculine; masculine; masculine; feminine; masculine,5; 5; 7; 5; 6; 5; 6; 5; 7; 5,,Bourgachard exits through the back.,
+1,15,1,Gabrielle; Bourgachard,"Gabrielle reveals a letter to Bourgachard that causes him to realize his past actions and confess his faults, leading to his offer of reparation.",LA CHANOINESSE,"Ô ma pauvre tante !... Allons, du courage !",A,Single line,feminine,10,,,
+1,17,1,HENRI; GABRIELLE,Henri expresses surprise at Gabrielle's consent to his uncle's advances.,Un jeune Grec,"Qu’ai-je entendu ?... votre consentement !... Ah ! ma surprise, à chaque instant augmente !",AABB,quatrain,feminine; feminine,8; 12,,Ils se regardent tous deux un moment en silence.,
+1,17,2,HENRI; GABRIELLE,Henri is shocked at Gabrielle's acceptance of becoming his aunt.,Un jeune Grec,Et d’où vient donc ce grand étonnement ? Vous consentez à devenir ma tante !,AABB,couplet,feminine; feminine,10; 10,,,
+1,17,3,GABRIELLE; HENRI,"Henri doubts Gabrielle's intentions, Gabrielle insists on constancy.",Un jeune Grec,Eh bien ! qu’importe ? Ah ! c’est ce qu’on verra... Par la constance moi je brille.,ABAC,quatrain,masculine; feminine,6; 8; 8,,,
+1,17,4,HENRI; GABRIELLE,Gabrielle jokes that everything remains in the family.,Un jeune Grec,"Et cette main, mon oncle l’obtiendra ? Eh ! oui, vraiment, pour que cela Ne sorte pas de la famille.",AABA,tercet,feminine; feminine; feminine,10; 9; 10,Unclear separation between lines 2 and 3 in the original text.,,
+1,18,1,GABRIELLE,"Gabrielle reveals her feelings to Bourgachard, explaining why they would not be a good match and what kind of partner would suit him better.",Air de valse,"Ce n’est pas cela, Ce tableau-là Ne peut guère Vous plaire ; Aussi, pour vous, et trait pour trait, Voilà ce qu’il faudrait : Une femme de quarante ans, Fraîche encor, douce, aimable et bonne... Songe-t-on aux jours du printemps Lorsque brille un beau jour d’automne ? N’est-ce pas cela ? N’est-ce pas là La compagne et l’amie Qui de la vie Et de l’hymen Charmerait le chemin ? Ne voyant que votre intérêt, Sans humeur et sans égoïsme ; Toujours là, les jours de piquet, Surtout les jours de rhumatisme. N’est-ce pas cela ? N’est-ce pas là La compagne et l’amie Qui de la vie Et de l’hymen Charmerait le chemin ? Elle entendrait, près du foyer, Le récit de chaque victoire, Et donnerait au vieux guerrier Paix et bonheur après la gloire. N’est-ce pas cela ? N’est-ce pas là La compagne et l’amie Qui de la vie Et de l’hymen Charmerait le chemin ?",AABBC DDEED FFBBG GAAB CDEED FFBBG GAAB CDEED FFBBG,Strophic form with repeated refrain,féminine; féminine; féminine; féminine; masculine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine; féminine,6; 5; 4; 3; 7; 5; 9; 9; 8; 9; 3; 3; 6; 6; 5; 7; 4; 8; 3; 3; 6; 6; 5; 7; 4; 8; 3; 3,,Air de valse.,
+1,19,1,BOURGACHARD,A reconciliation between characters after misunderstandings are resolved. Bourgachard expresses a desire for their lives to be embellished by friendship and to forget the past.,Valet de chambre,"Par l’amitié (bis.)
+Que notre vie
+Soit embellie !
+Par l’amitié (bis.)
+Que le passé soit oublié !",AABAA,Strophic with refrain,feminine; feminine; feminine; feminine; feminine,5; 5; 5; 5; 7,,,
