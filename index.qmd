@@ -8,7 +8,7 @@ format: html
 This site presents rendered versions of the major projects from my 2025 summer research in music encoding, retrieval, and analysis. Each notebook is published as a static HTML file for clean, readable presentation with collapsible code cells and formatted outputs.
 
 All source materials — including the original Jupyter notebooks (`.ipynb`), PDFs, MEI files, and vector databases — are available in the GitHub repository:  
-[https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+[https://github.com/cwcross/Encoding-Music-Summer-2025](https://github.com/cwcross/Encoding-Music-Summer-2025)
 
 ---
 
