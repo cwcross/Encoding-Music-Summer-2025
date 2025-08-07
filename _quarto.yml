@@ -1,0 +1,21 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - HC All Programs/full_concert_programs.ipynb
+    - Music Analysis/music_analysis_revised.ipynb
+    - Vaudeville/Vaudeville_RAG.ipynb
+    - Vaudeville/Vaudeville_structured.ipynb
+
+website:
+  title: "Encoding Music Summer Work 2025"
+  navbar:
+    left:
+      - text: "Overview"
+        file: index.qmd
+      - text: "Notebooks"
+        menu:
+          - file: HC All Programs/full_concert_programs.ipynb
+          - file: Music Analysis/music_analysis_revised.ipynb
+          - file: Vaudeville/Vaudeville_RAG.ipynb
+          - file: Vaudeville/Vaudeville_structured.ipynb

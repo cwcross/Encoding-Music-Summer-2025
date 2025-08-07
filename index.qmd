@@ -1,0 +1,49 @@
+---
+title: "Encoding Music Summer Work 2025"
+format: html
+---
+
+# Encoding Music – Summer Work 2025
+
+This site presents rendered versions of the major projects from my 2025 summer research in music encoding, retrieval, and analysis. Each notebook is published as a static HTML file for clean, readable presentation with collapsible code cells and formatted outputs.
+
+All source materials — including the original Jupyter notebooks (`.ipynb`), PDFs, MEI files, and vector databases — are available in the GitHub repository:  
+[https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+
+---
+
+## Project Index
+
+### Full Concert Programs (RAG + Metadata Filtering)
+View notebook: [full_concert_programs.ipynb](HC%20All%20Programs/full_concert_programs.ipynb)
+
+This notebook demonstrates a Retrieval-Augmented Generation (RAG) pipeline designed to extract and filter information from digitized concert programs. Metadata filters enable precise querying based on program details such as performer, composer, and performance date.
+
+---
+
+### Music Analysis with LLMs and Tools
+View notebook: [music_analysis_revised.ipynb](Music%20Analysis/music_analysis_revised.ipynb)
+
+This project evaluates the ability of large language models to analyze symbolic music both independently and when assisted by domain-specific tools like `music21` and CRIM. Input formats include MEI and JSON encodings.
+
+---
+
+### Vaudeville RAG
+View notebook: [Vaudeville_RAG.ipynb](Vaudeville/Vaudeville_RAG.ipynb)
+
+A prototype RAG system trained on scanned vaudeville programs, enabling question-answering and content retrieval from loosely structured historical data. Emphasis is placed on alignment between OCR text and vectorized indexing.
+
+---
+
+### Vaudeville Structured Output
+View notebook: [Vaudeville_structured.ipynb](Vaudeville/Vaudeville_structured.ipynb)
+
+This notebook processes a single vaudeville play and extracts structured musical metadata into CSV format. Output includes melodic airs, poetic text, rhyme schemes, and additional performance annotations designed for corpus-level analysis.
+
+---
+
+## Notes
+
+- These are static HTML exports of Jupyter notebooks created using [Quarto](https://quarto.org).  
+- For interactive use, download the original notebooks from the GitHub repo and run them locally.
+

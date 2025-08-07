@@ -1,9 +1,0 @@
-langchain
-langchain_openai
-langchain_chroma
-langchain_community
-pathlib
-langchain_text_splitters
-typing_extensions
-langchain_core
-langgraph
