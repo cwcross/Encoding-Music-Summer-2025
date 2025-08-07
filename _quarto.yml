@@ -19,3 +19,6 @@ website:
           - file: Music Analysis/music_analysis_revised.ipynb
           - file: Vaudeville/Vaudeville_RAG.ipynb
           - file: Vaudeville/Vaudeville_structured.ipynb
+
+publish:
+  method: github-pages
